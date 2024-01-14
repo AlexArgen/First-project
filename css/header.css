@@ -1,0 +1,131 @@
+.header {
+    
+min-height: 910px;
+background: #141024;
+    
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    
+    margin: 0 100px;
+    align-items: center;
+    padding-top: 30px;
+}
+
+.header_ul {
+    display: flex;
+    
+}
+
+.header_li {
+    margin-right: 60px;
+}
+.header_li:last-child {
+    margin-right: 0;
+}
+.header_a {
+    color: white;
+    font-size: 20px;
+    
+    font-weight: 200;
+    line-height: 160%;
+}
+.header_a:hover, .header_a:active {
+    opacity: 0.5;
+}
+
+.header_a {
+    transition: opacity 0.2s ease;
+}
+.logo {
+    font-size: 30px;
+    font-weight: 700;
+    
+}
+
+.tel {
+    color: white;
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 100%;
+}
+
+.tel1 {
+    position: relative;
+  }
+  .tel1 .tel2 {
+    display: none;
+    position: absolute;
+    background-color: #141024; /* Фон подсказки */
+    padding: 0rem 1.2rem; /* Отступы от края */
+    bottom: -80%; /* Позиция подсказки */
+    text-align: center;
+    font-size: 1.2rem;
+    color: #f70f0f; /* Цвет текста */
+  }
+  .tel1:hover .tel2 {
+    display: block;
+  }
+
+  
+
+
+
+
+
+  .container_content {  /* Для всего сайта  */
+    margin: 0 auto;
+    max-width: 1100px;
+  }
+  
+
+
+  .header_wrapper{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 100px;
+  }
+  p.p1 {
+    max-width: 478px;
+    color: #FFF;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 160%;
+    margin-top: 20px;
+  }
+
+  
+    
+  
+  h1 {
+    color: #FFF;
+    font-size: 70px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 160%;
+  }
+  .btn_zapis {
+    padding: 25px 54px;
+    border-radius: 5px;
+    background: #D52027;
+    color: #FFF;
+    margin-top: 45px;
+    font-size: 20px;
+  }
+  .content-text{
+    margin-top: 80px;
+    
+  }
+  .header{
+    position: relative;
+  }
+.girl {
+  position: absolute;
+  right: 240px;
+  bottom: 0;
+  width: 420px;
+}
+

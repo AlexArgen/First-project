@@ -1,0 +1,468 @@
+/* Достижения */
+
+
+.dostizhenia {   
+color: #141024;
+font-size: 30px;
+font-style: normal;
+font-weight: 400;
+line-height: 160%;
+padding-top: 70px;
+min-height: 605px;
+}
+
+.dostizhenia span{
+color: #141024;
+font-size: 30px;
+font-style: normal;
+font-weight: 600;
+line-height: 160%; 
+}
+
+.dostizhenia_razdel_1  span{
+color: #D52027;
+font-size: 70px;
+font-style: normal;
+font-weight: 600;
+line-height: 160%;
+}
+.dostizhenia_razdel_1 p  {
+color: rgba(20, 16, 36, 0.70);
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 160%;
+}
+
+
+
+.dostizhenia_razdel_2  span{
+color: #D52027;
+font-size: 70px;
+font-style: normal;
+font-weight: 600;
+line-height: 160%;
+}
+.dostizhenia_razdel_2 p  {
+color: rgba(20, 16, 36, 0.70);
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 160%;
+}
+
+
+
+
+.dostizhenia_razdel_3  span{
+color: #D52027;
+font-size: 70px;
+font-style: normal;
+font-weight: 600;
+line-height: 160%;
+}
+.dostizhenia_razdel_3 p  {
+color: rgba(20, 16, 36, 0.70);
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 160%;
+}
+  
+
+
+.dostizhenia_razdel_4  span{
+color: #D52027;
+font-size: 70px;
+font-style: normal;
+font-weight: 600;
+line-height: 160%;
+}
+.dostizhenia_razdel_4 p  {
+color: rgba(20, 16, 36, 0.70);
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 160%;
+}        
+
+.dostizhenia_razdel {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 60px;
+}
+
+
+
+/* Польза */
+
+.polza {
+    min-height: 500px ;
+    background-color: #F9F9F9 ;
+}
+.polza-title {
+color: #141024;
+font-size: 50px;
+font-style: normal;
+font-weight: 600;
+line-height: 160%; /* 80px */
+padding-top: 100px;
+padding-bottom: 60px;
+}
+
+
+.polza-udostoverenie span {
+color: #141024;
+font-size: 24px;
+font-style: normal;
+font-weight: 600;
+line-height: 160%; /* 38.4px */
+}
+.polza-udostoverenie p {
+color: rgba(20, 16, 36, 0.70);
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 160%; /* 28.8px */
+padding-top: 20px;
+}
+
+
+.polza-znania span {
+color: #141024;
+font-size: 24px;
+font-style: normal;
+font-weight: 600;
+line-height: 160%; /* 38.4px */
+}
+.polza-znania p {
+color: rgba(20, 16, 36, 0.70);
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 160%; /* 28.8px */
+padding-top: 20px;
+}
+
+
+.polza-praktika span {
+color: #141024;
+font-size: 24px;
+font-style: normal;
+font-weight: 600;
+line-height: 160%; 
+}
+.polza-praktika p {
+color: rgba(20, 16, 36, 0.70);
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 160%; 
+padding-top: 20px;
+}
+
+.polza-content {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+/* Тренеры */
+
+.treners-title {
+color: #141024;
+font-size: 50px;
+font-style: normal;
+font-weight: 600;
+line-height: 160%;
+text-align: center;
+margin-top: 100px;
+margin-bottom: 60px;
+}
+
+.trener-name {
+color: #141024;
+font-size: 24px;
+font-style: normal;
+font-weight: 600;
+line-height: 160%; 
+margin-top: 20px;
+}
+.treners-content p {
+color: rgba(20, 16, 36, 0.70);
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 160%; 
+}
+.treners-content {
+    display: flex;
+    justify-content: space-around;
+    margin-left: 60px;
+    margin-right: 60px;
+    padding-bottom: 50px;
+}
+
+
+/* Пакеты */
+
+.paket-title {
+color: #141024;
+font-size: 50px;
+font-style: normal;
+font-weight: 600;
+line-height: 160%; 
+margin-top: 70px;
+margin-bottom: 80px;
+}
+.paket {
+    padding-bottom: 140px;
+}
+.paket-content {
+    display: flex;
+    justify-content: space-between;
+}
+
+/* Пакет PRO */
+
+.title-PRO {
+color: #000000;
+text-align: center;
+font-size: 30px;
+font-style: normal;
+font-weight: 600;
+line-height: 160%;
+margin-bottom: 85px; 
+margin-top: 40px;
+}
+
+.cena-PRO {
+color: #000000;
+text-align: center;
+font-size: 50px;
+font-style: normal;
+font-weight: 600;
+line-height: 160%;
+margin-bottom: 20px;
+}
+.opisanie-PRO {
+color: #000000;
+text-align: center;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 160%;
+margin-bottom: 52px;
+}
+.knopka-btn {
+display: inline-block;
+padding: 25px 54px;
+border-radius: 5px;
+background: #D52027;
+color: #FFF;
+margin-left: 40px;
+margin-right: 40px;
+margin-bottom: 40px;
+width: 270px;
+text-align: center;
+}
+
+.paket-PRO {
+width: 350px;
+border-radius: 20px;
+border: 1px solid rgba(20, 16, 36, 0.20);
+box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+.paket-PRO:hover {
+background: #e2e0ee;
+}
+.knopka-btn:hover {
+background: #a0171c;
+}
+
+
+/* Пакет ROBO */
+
+
+.title-ROBO {
+color: #000000;
+text-align: center;
+font-size: 30px;
+font-style: normal;
+font-weight: 600;
+line-height: 160%;
+margin-bottom: 85px; 
+margin-top: 40px;
+}
+    
+.cena-ROBO {
+color: #000000;
+text-align: center;
+font-size: 50px;
+font-style: normal;
+font-weight: 600;
+line-height: 160%;
+margin-bottom: 20px;
+}
+.opisanie-ROBO {
+color: #000000;
+text-align: center;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 160%;
+margin-bottom: 52px;
+}
+.knopka-btn {
+display: inline-block;
+padding: 25px 54px;
+border-radius: 5px;
+background: #D52027;
+color: #FFF;
+margin-left: 40px;
+margin-right: 40px;
+margin-bottom: 40px;
+width: 270px;
+text-align: center;
+}
+    
+.paket-ROBO {
+width: 350px;
+border-radius: 20px;
+border: 1px solid rgba(20, 16, 36, 0.20);
+box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+.paket-ROBO:hover {
+background: #e2e0ee;
+}
+.knopka-btn:hover {
+background: #a0171c;
+}
+
+
+
+/* Пакет PROG */
+
+.title-PROG {
+color: #000000;
+text-align: center;
+font-size: 30px;
+font-style: normal;
+font-weight: 600;
+line-height: 160%;
+margin-bottom: 85px; 
+margin-top: 40px;
+}
+        
+.cena-PROG {
+color: #000000;
+text-align: center;
+font-size: 50px;
+font-style: normal;
+font-weight: 600;
+line-height: 160%;
+margin-bottom: 20px;
+}
+.opisanie-PROG {
+color: #000000;
+text-align: center;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 160%;
+margin-bottom: 52px;
+}
+.knopka-btn {
+display: inline-block;
+padding: 25px 54px;
+border-radius: 5px;
+background: #D52027;
+color: #FFF;
+margin-left: 40px;
+margin-right: 40px;
+margin-bottom: 40px;
+width: 270px;
+text-align: center;
+}
+        
+.paket-PROG {
+width: 350px;
+border-radius: 20px;
+border: 1px solid rgba(20, 16, 36, 0.20);
+box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+.paket-PROG:hover {
+background: #e2e0ee;
+}
+.knopka-btn:hover {
+background: #a0171c;
+}
+
+
+
+/* Форма для отправки */
+
+.form {
+height: 470px;
+background: #D52027;
+}
+.form-title {
+color: #FFF;
+font-size: 36px;
+font-style: normal;
+font-weight: 600;
+line-height: 130%;
+margin-bottom: 20px; 
+}
+.form-cotent {
+color: #FFF;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 130%; 
+}
+.text {
+background: #F6F6F6;
+border-radius: 5px;
+width: 500px;
+height: 64px;
+padding: 20px;
+margin-bottom: 10px ;
+}
+.zayavka-form {
+display: flex;
+justify-content: space-between;  
+padding-top: 100px;
+}
+.zayavka {
+width: 500px;
+}
+.zayavka-knopka {
+width: 500px;
+height: 64px;
+border-radius: 5px;
+background: #141024;
+color: #FFF;
+}
+
+
+/* Footer */
+
+footer {
+height: 160px;
+background: #141024;
+}
+.footer-container p {
+color: rgba(255, 255, 255, 0.70);
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 160%;
+margin-top: 10px;
+}
+.footer-container {
+display: flex;
+justify-content: space-between;
+padding: 40px 100px 0 100px;
+}
